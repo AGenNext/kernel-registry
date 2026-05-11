@@ -33,3 +33,4 @@ caddy_config/
 
 # Kernel Specific
 integrations/ui-toolkit/ # Temporary bridge files if not intended for main repo
+.vscode/agent-notes.json
